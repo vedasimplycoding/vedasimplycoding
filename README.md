@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**vedasimplycoding/vedasimplycoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Veda.SimplyCoding
 
-Here are some ideas to get you started:
+**YouTube: https://www.youtube.com/channel/UCFdEvZQvP7B46fvEHJ6f0hQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Twitter: @vedasm08
+
+**GitHub: https://github.com/vedasimplycoding
+
+**My Websites:-**
+
+**1)vedasimplycoding.github.io/Online-Calculator/
+2)vedasimplycoding.github.io/Tamil-1/
+3)https://vedasimplycoding.github.io/Reach-for-the-Top-Summary/
+Thank you 🙏🙏
